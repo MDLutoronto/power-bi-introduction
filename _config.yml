@@ -1,6 +1,6 @@
 ## Site settings
-title: "Map & Data Library just the Docs Template"
-description: "Workshops and guides from the Map & Data Library, University of Toronto"
+title: "Introduction to Power BI"
+description: "This tutorial outlines the steps taken in the demonstration during the live workshop on an Introduction to Data Visualization Using Power BI. This is a companion tutorial, but can also be used as a stand-alone introduction to Power BI Desktop."
 url: "https://MDLutoronto.github.io/power-bi-introduction" # change the slug to the repo's name ('jtd-template' in this case)
 repository: "MDLutoronto/power-bi-introduction" # for github-metadata
 ## Navigation footer logos and links
