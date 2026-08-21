@@ -48,7 +48,7 @@ nav_order: 2
     <img src="{{ '/assets/images/image_53.png' | relative_url }}" alt='Resizing the added slicer to the top-right' title='' width='1038' height='590' />
 10. Next, drag the *Product* variable from the *Data* panel to the *Field*, *Add data fields here* box on the *Visualizations* panel.
 
-    <img src="{{ '/assets/images/%7BDCE51970-6CD9-46C0-BFE6-F8C6D6F2DDD1%7D.png' alt='Adding data to field for visualization' title='' width='438' height='594' />
+    <img src="{{ '/assets/images/%7BDCE51970-6CD9-46C0-BFE6-F8C6D6F2DDD1%7D.png' | relative_url }}" alt='Adding data to field for visualization' title='' width='438' height='594' />
 11. Go to the *Format your visual* section of the *Visualizations* panel. Expand *Slicer* *settings* and then expand *Options*. Under *Style*, select *Dropdown*.
 
     <img src="{{ '/assets/images/%7B7DA689A1-C3DE-4B4C-A4E4-BB6FDAA1117B%7D.png' | relative_url }}" alt='Selecting Slicer style' title='' width='208' height='572' />
