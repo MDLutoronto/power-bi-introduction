@@ -13,7 +13,7 @@ nav_order: 3
 ---
 ## Creating Pie Charts
 
-1. Okay let’s try loading our own data – this time based on some qualitative humanities data. Power BI is not meant to work directly with text data files, but you can use other better\-suited textual analysis tools to create datasets that you can then visualize in Power BI. What I did was take the freely available text for Shakespeare’s play Romeo and Juliet. I ran it through a free online tool called [Voyant Tools](https://voyant-tools.org/) and it generated a word frequency table that we are now going to use as our dataset. If you want to learn more about textual analysis and visualization tools, such as Voyant, you can take a look at the [Tools & Tutorials](https://mdl.library.utoronto.ca/dataviz/tools-tutorials) page in the [Data Visualization guide](https://mdl.library.utoronto.ca/dataviz/getting-started).
+1. Okay let’s try loading our own data – this time based on some qualitative humanities data. Power BI is not meant to work directly with text data files, but you can use other better-suited textual analysis tools to create datasets that you can then visualize in Power BI. What I did was take the freely available text for Shakespeare’s play Romeo and Juliet. I ran it through a free online tool called [Voyant Tools](https://voyant-tools.org/) and it generated a word frequency table that we are now going to use as our dataset. If you want to learn more about textual analysis and visualization tools, such as Voyant, you can take a look at the [Tools & Tutorials](https://library.utoronto.ca/use/service/data-cleaning-analysis-and-visualization) page in the [Data Visualization guide](https://library.utoronto.ca/use/service/data-cleaning-analysis-and-visualization).
 2. Let’s load this word frequency data into Power BI. From the *Home* menu (top ribbon), select *Get Data, Excel Workbook*.
 
     <img src="{{ '/assets/images/%7B63815D84-8F17-4D2E-B371-EED9B0EFAF97%7D.png' | relative_url }}" alt='Importing own data via the Home menu' title='' width='789' height='856' />
@@ -48,4 +48,4 @@ nav_order: 3
 
     <img src="{{ '/assets/images/%7B72227CE8-F9CE-442F-9252-D8BA6EA2B950%7D.png' | relative_url }}" alt='Sample Final Pie Chart' title='' width='1127' height='627' />
 
-**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [Power BI](https://mdlutoronto.github.io/tutorials-search/?tool=Power+BI) \| **Data Format:** [Statistics](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Statistics)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) | **Tools:** [Power BI](https://mdlutoronto.github.io/tutorials-search/?tool=Power+BI) | **Data Format:** [Statistics](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Statistics)
